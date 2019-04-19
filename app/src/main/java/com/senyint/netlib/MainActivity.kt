@@ -2,6 +2,8 @@ package com.senyint.netlib
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import io.reactivex.Observable
+import io.reactivex.android.schedulers.AndroidSchedulers
 
 class MainActivity : AppCompatActivity() {
 
